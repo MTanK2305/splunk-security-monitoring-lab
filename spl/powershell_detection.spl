@@ -1,0 +1,1 @@
+index=sysmon EventCode=1 Image="*powershell.exe"

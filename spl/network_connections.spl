@@ -1,0 +1,2 @@
+index=sysmon EventCode=3
+| table _time Image DestinationIp DestinationPort

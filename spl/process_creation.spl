@@ -1,0 +1,3 @@
+index=sysmon EventCode=1
+| stats count by Image
+| sort -count

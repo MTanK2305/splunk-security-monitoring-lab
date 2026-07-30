@@ -1,0 +1,2 @@
+index=sysmon (EventCode=12 OR EventCode=13)
+| table _time Image TargetObject
